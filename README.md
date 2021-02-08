@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/saberhosneydev" target="blank"><img src="https://img.shields.io/twitter/follow/saberhosneydev?logo=twitter&style=for-the-badge" alt="saberhosneydev" /></a> </p>
 
+- 🌱 I’m currently learning **React, Next.js**
+
+- 💬 Ask me about **Backend, vue and medicine**
+
+- 📫 How to reach me **saberhosneydev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/saberhosneydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="saberhosneydev" height="30" width="40" /></a>
