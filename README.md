@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saberhosneydev" target="blank"><img src="https://img.shields.io/twitter/follow/saberhosneydev?logo=twitter&style=for-the-badge" alt="saberhosneydev" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **React, Next.js and GraphQL**
 
-- 💬 Ask me about **Backend, vue and medicine**
+- 💬 Ask me about **Backend, games and medicine**
 
 - 📫 How to reach me **saberhosneydev@gmail.com**
 
