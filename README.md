@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saberhosneydev" target="blank"><img src="https://img.shields.io/twitter/follow/saberhosneydev?logo=twitter&style=for-the-badge" alt="saberhosneydev" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js and GraphQL**
+- 🌱 I’m currently learning **Always up for new stuff**
 
 - 💬 Ask me about **Backend, games and medicine**
 
