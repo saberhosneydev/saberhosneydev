@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saber Hosney</h1>
 <h3 align="center">A software engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Always up for new stuff**
+- 🌱 I’m currently learning **Laravel and tailwindcss**
 
 - 💬 Ask me about **Backend, games and medicine**
 
