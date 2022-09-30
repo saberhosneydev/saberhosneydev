@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saber Hosney</h1>
 <h3 align="center">A software engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **micro-expression recognition with machine learning**
 
-- 🌱 I’m currently learning **Machine learning in computer vision and NLP fields**
+- 🌱 I have helped in building a ML model that was named **MER 2S-DeepCaps neural network**
 
 - 💬 Ask me about **Backend, games and medicine.**
 
